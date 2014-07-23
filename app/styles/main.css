@@ -77,3 +77,8 @@ body {
     border-bottom: 0;
   }
 }
+
+p.input-group {
+   padding: 5px 10px;
+   cursor: move;
+}
